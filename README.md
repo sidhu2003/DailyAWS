@@ -8,6 +8,8 @@ This repository contains Python scripts that automate various daily tasks on Ama
 - Automated snapshots of RDS instances and modification of RDS configurations.
 - Management of AWS Lambda functions, including deployment and trigger configuration.
 - Notifications using SNS and CloudWatch.
+- IAM Roles Management & KMS
+- List goes on ...
 
 ## Getting Started
 Clone the repository and ensure you have Python and pip installed. Install the required dependencies using pip.
